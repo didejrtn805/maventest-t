@@ -12,7 +12,7 @@ public class MaventestTApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "yds_Springboot_Test";
+		return "yds_spring-test";
 	}
 
 	public static void main(String[] args) {
